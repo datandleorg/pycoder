@@ -1,0 +1,7 @@
+pydantic
+langgraph
+langchain_anthropic
+langchain_openai
+langchain_core
+qdrant-client
+sentence_transformers
